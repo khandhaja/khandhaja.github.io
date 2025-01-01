@@ -107,7 +107,7 @@ flowchart LR
 
 ## Implementation
 
-Khandha can be implemented on any tool that supports editing of Markdown files, which include text editors. For the best experience though, have a look at [[Tools for Second Brain]]. Personally, I have chosen to use [Obsidian](https://obsidian.md) but I also use [Visual Studio Code](https://code.visualstudio.com) to make changes.
+Khandha can be implemented on any tool that supports editing of Markdown files, which include text editors. Personally, I have chosen to use [Obsidian](https://obsidian.md) but I also use [Visual Studio Code](https://code.visualstudio.com) to make changes.
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://obsidian.md" target="_blank">
 	<div class="rich-link-image-container">
