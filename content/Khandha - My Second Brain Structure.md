@@ -40,11 +40,11 @@ The structure of my second brain is loosely based on the concept of interpreting
 
 The second brain is divided into 5 categories, based on the level of processing of the content. The categories are inspired by "pañcupādānakkhandhā" (the Buddha's classification of the five key components of our mental process and consciousness):
 
-1. **[[rupa]]** (input source documents and content in their original format) - "data" in the knowledge pyramid
-2. **[[vedana]]** (evaluation or critical analysis of rupa)
-3. **[[sanna]]** (interpretation and summary of rupa) - "information" in the knowledge pyramid
-4. **[[sankhara]]** (key concepts derived from vedana and sanna) - "knowledge" in the knowledge pyramid
-5. **[[vinnana]]** (new concepts and insights based on combining and analysing sankhara) - "wisdom" in the knowledge pyramid
+1. **[[#rupa]]** (input source documents and content in their original format) - "data" in the knowledge pyramid
+2. **[[#vedana]]** (evaluation or critical analysis of rupa)
+3. **[[#sanna]]** (interpretation and summary of rupa) - "information" in the knowledge pyramid
+4. **[[#sankhara]]** (key concepts derived from vedana and sanna) - "knowledge" in the knowledge pyramid
+5. **[[#vinnana]]** (new concepts and insights based on combining and analysing sankhara) - "wisdom" in the knowledge pyramid
 
 Note that the original Pali terms for these include diacritical marks (ie. rūpa, vedanā, sañña, saṅkhāra, viññāṇa). For the purposes of using these as categories, I have elected to remove these diacritical marks to ease reading and typing, as they simply serve as identifiers or tags for the various documents in the second brain.
 
