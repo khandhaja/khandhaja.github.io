@@ -175,9 +175,9 @@ Currently, I am experimenting with two different methods of publishing excerpts 
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">Digital Garden - Publish Obsidian Notes For Free</h1>
+		<h1 class="rich-link-card-title">Digital Garden</h1>
 		<p class="rich-link-card-description">
-		
+			Publish Obsidian Notes For Free
 		</p>
 		<p class="rich-link-href">
 		https://dg-docs.ole.dev

@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Khandhaja",
-    pageTitleSuffix: "sprouts from my digital garden",
+    pageTitle: "🌸 Khandhaja",
+    pageTitleSuffix: "- sprouts from my Second Brain",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#f4eee8",
-          lightgray: "#f4dede",
+          lightgray: "#F8D7DD",
           gray: "#ec809e",
           darkgray: "#615f5f",
           dark: "#27272a",
@@ -65,8 +65,8 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
