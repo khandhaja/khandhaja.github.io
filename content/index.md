@@ -6,4 +6,6 @@ title: Welcome to Khandhaja
 
 ![alt text](image.png)
 
-This website is a digital garden that contains extracts from my Second Brain, called `Khandha` ("a mass, large amount, quantity; body; collection, agglomeration; complex (category); group; aggregate").
+This website is a digital garden that contains extracts from my Second Brain, called [`Khandha`](Khandha%20-%20My%20Second%20Brain%20Structure.md) ("a mass, large amount, quantity; body; collection, agglomeration; complex (category); group; aggregate").
+
+- [Read up on my structure for a Second Brain](Khandha%20-%20My%20Second%20Brain%20Structure.md)
