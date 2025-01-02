@@ -1,3 +1,6 @@
+![[khandha.jpeg]]
+# Khandha - a structure for a Second Brain
+
 These are some thoughts on a suggested structure for a [[Second Brain|second brain]], based on ideas from:
 - [Zettelkasten](https://zettelkasten.de)
 - [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
@@ -93,7 +96,7 @@ flowchart LR
 
 ## Comparison to Bloom's Taxonomy
 
-![[blooms_taxonomy.png.jpg]]
+![[blooms_taxonomy.jpg]]
 
 
 | Bloom's Taxonomy | Khandha                 |
@@ -107,7 +110,7 @@ flowchart LR
 
 ## Implementation
 
-Khandha can be implemented on any tool that supports editing of Markdown files, which include text editors. Personally, I have chosen to use [Obsidian](https://obsidian.md) but I also use [Visual Studio Code](https://code.visualstudio.com) to make changes.
+Khandha can be implemented on any tool that supports editing of Markdown files, which include text editors. For the best experience though, have a look at [[Tools for Second Brain]]. Personally, I have chosen to use [Obsidian](https://obsidian.md) but I also use [Visual Studio Code](https://code.visualstudio.com) to make changes.
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://obsidian.md" target="_blank">
 	<div class="rich-link-image-container">
@@ -143,7 +146,7 @@ Khandha can be implemented on any tool that supports editing of Markdown files, 
 
 ## Publishing
 
-Currently, I am experimenting with two different methods of publishing excerpts from my Second Brain into a [digital garden](https://maggieappleton.com/garden-history).
+Currently, I am experimenting with two different methods of publishing excerpts from my Second Brain into a [[Digital Garden|digital garden]].
 
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://quartz.jzhao.xyz" target="_blank">

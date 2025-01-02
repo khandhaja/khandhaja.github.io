@@ -1,8 +1,8 @@
+![second brain, full of collections of different shapes and colours](media/second-brain.jpeg)
+
 "Second Brain" is a term used to describe a special type of Personal Knowledge Management (PKM), which is a system together with a process for how people gather, classify, store, search, retrieve and share knowledge that is important to them.
 
 The term was popularised by [Tiago Forte](https://www.youtube.com/@TiagoForte)
-
-[Building a Second Brain](https://www.buildingasecondbrain.com)
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.buildingasecondbrain.com" target="_blank">
 	<div class="rich-link-image-container">
@@ -19,8 +19,6 @@ The term was popularised by [Tiago Forte](https://www.youtube.com/@TiagoForte)
 		</p>
 	</div>
 </a></div>
-
-[Home - Forte Labs](https://fortelabs.com)
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://fortelabs.com" target="_blank">
 	<div class="rich-link-image-container">
