@@ -1,5 +1,5 @@
 ---
-title: Khandhaja
+title: Welcome to 🌸 Khandhaja
 ---
 
 ![# sprouts and pink flowers from a digital garden representing a second brain](media/khandhaja.jpeg)
