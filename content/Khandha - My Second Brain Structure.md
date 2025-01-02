@@ -146,7 +146,7 @@ Khandha can be implemented on any tool that supports editing of Markdown files, 
 
 ## Publishing
 
-Currently, I am experimenting with two different methods of publishing excerpts from my Second Brain into a [[Digital Garden|digital garden]].
+Currently, I am experimenting with two different methods of publishing excerpts from my Second Brain into a [[Digital Garden|digital garden]]. For other tools, refer to [[Tools for Digital Garden]].
 
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://quartz.jzhao.xyz" target="_blank">
